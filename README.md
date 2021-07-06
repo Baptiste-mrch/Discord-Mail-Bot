@@ -10,7 +10,9 @@ $last     -> Renvoie le dernier mail reçu
 $ancien x -> Renvoie les x derniers mails
 
 Pour tout nouveau mail, le Bot l'envoie automatiquement dans le Channel correspondant (ID_CHANNEL à configuré)
+
 Pour les mails avec un long contenu, il sera scindé en plusieurs messages
+
 
 # Configuration
 
