@@ -3,7 +3,7 @@ Recevoir ses mails Gmail sur Discord grâce à ce BOT
 
 Ce projet à été créé dans le but de recevoir ses mails scolaires sur Discord.
 
-![Exemple](example.png)
+![Exemple](Example.png)
 
 # Utilisation
 
