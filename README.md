@@ -19,4 +19,4 @@ Au début du script Python, des variables sont à modifier :
   - `limite_mail` Limité le nombre de mails pour éviter de spam
 
 Pour inviter le Bot sur un serveur, crée un lien de ce type : 
-https://discordapp.com/oauth2/authorize?client_id=`OAuth2 CLIENT ID`&scope=bot&permissions=0
+https://discordapp.com/oauth2/authorize?client_id= `OAuth2 CLIENT ID` &scope=bot&permissions=0
