@@ -5,7 +5,11 @@ Ce projet à été créé dans le but de recevoir ses mails scolaires sur Discor
 
 # Utilisation
 
+$last     -> Renvoie le dernier mail reçu
+$ancien x -> Renvoie les x derniers mails
 
+Pour tout nouveau mail, le Bot l'envoie automatiquement dans le Channel correspondant (ID_CHANNEL à configuré)
+Pour les mails avec un long contenu, il sera scindé en plusieurs messages
 
 # Configuration
 
@@ -17,6 +21,7 @@ Au début du script Python, des variables sont à modifier :
   - `TOKEN`       Token de l'application discord (https://discordapp.com/developers/applications)
   - `time_wait`   Temps d'attente entre chaque messages
   - `limite_mail` Limité le nombre de mails pour éviter de spam
+  - `PREFIX`      Changer le caractère préfixe ($ par défaut)
 
 Pour inviter le Bot sur un serveur, crée un lien de ce type :
 
