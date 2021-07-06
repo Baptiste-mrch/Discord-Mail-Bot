@@ -3,13 +3,15 @@ Recevoir ses mails Gmail sur Discord grâce à ce BOT
 
 Ce projet à été créé dans le but de recevoir ses mails scolaires sur Discord.
 
-![Exemple](Example.png)
+![Exemple](Images/Example.png)
 
 # Utilisation
 
 $last     -> Renvoie le dernier mail reçu
+![Exemple](Images/Last_example.png)
 
 $ancien x -> Renvoie les x derniers mails
+![Exemple](Images/Ancien_example.png)
 
 Pour tout nouveau mail, le Bot l'envoie automatiquement dans le Channel correspondant (ID_CHANNEL à configuré)
 
