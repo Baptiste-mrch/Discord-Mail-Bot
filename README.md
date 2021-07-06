@@ -6,6 +6,7 @@ Ce projet à été créé dans le but de recevoir ses mails scolaires sur Discor
 # Utilisation
 
 $last     -> Renvoie le dernier mail reçu
+
 $ancien x -> Renvoie les x derniers mails
 
 Pour tout nouveau mail, le Bot l'envoie automatiquement dans le Channel correspondant (ID_CHANNEL à configuré)
