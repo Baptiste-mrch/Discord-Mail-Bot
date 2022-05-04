@@ -28,9 +28,9 @@ Au début du script Python, des variables sont à modifier :
   - `ID_CHANNEL`  ID du Channel Discord (Clique droit -> Copier l'identifiant)
   - `TOKEN`       Token de l'application discord (https://discordapp.com/developers/applications)
   - `time_wait`   Temps d'attente entre chaque messages
-  - `limite_mail` Limité le nombre de mails pour éviter de spam
+  - `limite_mail` Limiter le nombre de mails pour éviter de spam
   - `PREFIX`      Changer le caractère préfixe ($ par défaut)
 
 Pour inviter le Bot sur un serveur, crée un lien de ce type :
 
-```https://discordapp.com/oauth2/authorize?client_id= ```  OAuth2 CLIENT ID  ``` &scope=bot&permissions=0```
+```https://discordapp.com/oauth2/authorize?client_id=**OAuth2 CLIENT ID**&scope=bot&permissions=0```
