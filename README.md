@@ -33,4 +33,4 @@ Au début du script Python, des variables sont à modifier :
 
 Pour inviter le Bot sur un serveur, crée un lien de ce type :
 
-  https://<span></span>discordapp.com<span></span>/oauth2/authorize?client_id= **OAuth2 CLIENT ID** &scope=bot&permissions=0
+  https://<span></span>discordapp.com<span></span>/oauth2/authorize?client_id= _**OAuth2 CLIENT ID**_ &scope=bot&permissions=0
