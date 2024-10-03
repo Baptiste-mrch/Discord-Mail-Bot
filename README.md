@@ -1,7 +1,7 @@
 # Discord-Mail-Bot
 Recevoir ses mails Gmail sur Discord grâce à ce BOT
 
-Ce projet à été créé dans le but de recevoir ses mails scolaires sur Discord.
+Ce projet a été créé dans le but de recevoir ses mails scolaires sur Discord.
 
 ![Exemple](Images/Example.png)
 
